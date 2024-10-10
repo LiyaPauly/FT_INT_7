@@ -1,0 +1,19 @@
+.title{
+    color: rgb(143, 11, 99);
+    text-align: center;    
+}
+    
+
+.subtitle{
+    color: rgb(211, 15, 24);
+    text-align: center;
+    display: grid;
+    text-decoration: underline;
+}
+
+body{
+    
+    border: 50px solid rgb(101, 96, 96);
+    width: 600px;
+    border-style: solid;
+}
